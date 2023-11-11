@@ -7,6 +7,7 @@ Welcome to the realm of endless code, cola, and cat gifs! I'm Shuyang, the codin
 - 🚀 Future Programmer on a mission to turn cola into code.
 - 🥤 Soft Drink enthusiast. My code might have bugs, but my coffee is always perfect.
 - 🐱 Cat lover. In the future I gonna make my keyboard covered in cat hair, and I will love it.
+
 (The above is just a template, don’t take it seriously!😁)
 
 <!---
